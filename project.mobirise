@@ -41,32 +41,33 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/dvd-vorlage-1-128x155.png",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "favicon": "@PROJECT_PATH@/assets/images/virus-128x128-1.png",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://leon345.github.io/virus",
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#ff3366",
-      "colorBg": "#f7ed4a",
+      "colorText": "#f7ed4a",
+      "colorBg": "#cc2952",
       "colorButton": "",
       "colorLink": "#000000",
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "We use cookies to give me the best experience on your device.",
-      "textButton": "🦠"
+      "textButton": "🔓"
     },
     "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorText": "#ff3366",
+      "colorLink": "#f7ed4a",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "uniqCompNum": 7,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
