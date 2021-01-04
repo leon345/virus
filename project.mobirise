@@ -84,9 +84,7 @@
     "uniqCompNum": 18,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
