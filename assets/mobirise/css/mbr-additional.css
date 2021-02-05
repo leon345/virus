@@ -863,10 +863,6 @@ section.lazy-placeholder:after {
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -967,10 +963,6 @@ section.lazy-placeholder:after {
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-buttons,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-buttons {
@@ -1405,10 +1397,6 @@ section.lazy-placeholder:after {
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1509,10 +1497,6 @@ section.lazy-placeholder:after {
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-buttons,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-buttons {
