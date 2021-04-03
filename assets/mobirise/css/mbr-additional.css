@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Bungee+Outline:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Fredoka+One:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&display=swap);
 
 
 
@@ -10,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Bungee Outline', display;
+  font-family: 'Roboto Mono', monospace;
   font-size: 15rem;
   font-display: swap;
 }
@@ -18,7 +16,7 @@ body {
   font-size: 24rem;
 }
 .display-2 {
-  font-family: 'Bungee Outline', display;
+  font-family: 'Roboto Mono', monospace;
   font-size: 3rem;
   font-display: swap;
 }
@@ -26,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -34,7 +32,7 @@ body {
   font-size: 2.4rem;
 }
 .display-5 {
-  font-family: 'Fredoka One', display;
+  font-family: 'Roboto Mono', monospace;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -42,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 1rem;
   font-display: swap;
 }
@@ -534,7 +532,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 1rem;
   font-display: swap;
 }
@@ -863,6 +861,10 @@ section.lazy-placeholder:after {
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -963,6 +965,10 @@ section.lazy-placeholder:after {
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-buttons,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-buttons {
@@ -1397,6 +1403,10 @@ section.lazy-placeholder:after {
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-sa173TFAjo .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-sa173TFAjo .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1497,6 +1507,10 @@ section.lazy-placeholder:after {
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-sa173TFAjo .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-sa173TFAjo .navbar-collapse.collapsing .navbar-buttons,
   .cid-sa173TFAjo .navbar-collapse.show .navbar-buttons {
